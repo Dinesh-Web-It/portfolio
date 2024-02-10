@@ -25,7 +25,7 @@ const NaveBar = () => {
         <li><a href=''>About</a></li>
       </ul>
       <ul className='nav-ul'>
-        <li id='cross'><a href="" onClick={menubar}><RxCross2 /></a></li>
+        <li id='cross'><a onClick={menubar}><RxCross2 /></a></li>
         <li><a href=''>Home</a> </li>
         <li><a href=''>Projects</a> </li>
         <li><a href=''>Resume</a> </li>
